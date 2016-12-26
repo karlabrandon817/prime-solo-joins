@@ -1,18 +1,10 @@
 #Week 4: SQL Joins (Solo Assignment)
 
-In this challenge, we’re going to practice performing SQL queries with multiple tables. This should help better solidify some concepts that were covered during lecture.
+This challenge was designed to practice performing SQL queries with multiple tables using POSTICO with POSTGRES running on my computer.
 
-# Assumptions
+## Create database, table, and data
 
-* You are using Postico
-* Postgres is currently running on your computer
-
-# Setup
-Follow the instructions below before continuing with this challenge.
-
-## Create your database, table, and data
-
-We are creating a database with a multiple tables and records. Please follow the instructions below to create a new database with this table and data.
+I created a database with a multiple tables and records and followed the instructions below to create a new database with this table and data.
 
 Postico instructions
 
@@ -31,16 +23,13 @@ See a diagram of the available entities and their relationships. https://docs.go
 
 NOTE: Remember that a many-to-many relationship requires a join table, so the entities in the diagram may be missing some actual tables. Explore the tables in your database.
 
-## GitHub repo
-1. Create a GitHub repo named “prime-solo-joins”.
-2. Create a file called “joins-solution.sql”. You will store your responses to the exercise questions here. NOTE: This is merely a text file with a .sql extension.
 
 # Exercise
 
-For each of the following questions
+For each of the questions:
 
-* Write a comment that specifies which question you are answering. (SQL comments are two dashes, followed by text.)
-* Write the SQL query that answers the question, below that comment.
+* I wrote a comment that specified which question I was answering.
+* I then wrote the SQL query that answered the question, below that comment.
 
 ## Example question and answer
 ```
